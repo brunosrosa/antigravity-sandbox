@@ -1,0 +1,1 @@
+bad configuration: multiple .doltcfg directories detected: 'C:\Users\rosas\Dev_Projects\antigravity-sandbox\nivel-2-beads' and 'C:\Users\rosas\Dev_Projects\antigravity-sandbox\.doltcfg'; pass one of the directories using option --doltcfg-dir

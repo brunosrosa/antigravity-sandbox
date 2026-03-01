@@ -1,0 +1,2 @@
+This is a test file for Nivel 1.
+If you can read this, the file reading operation in Rust was successful!

@@ -1,0 +1,13 @@
+C:\Users\rosas\Dev_Projects\antigravity-sandbox\nivel-2-beads\target\debug\deps\uuid-bd8d54fd13f41231.d: C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\lib.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\macros.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\builder.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\error.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\non_nil.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\parser.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\fmt.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\timestamp.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\external.rs
+
+C:\Users\rosas\Dev_Projects\antigravity-sandbox\nivel-2-beads\target\debug\deps\libuuid-bd8d54fd13f41231.rmeta: C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\lib.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\macros.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\builder.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\error.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\non_nil.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\parser.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\fmt.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\timestamp.rs C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\external.rs
+
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\lib.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\macros.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\builder.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\error.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\non_nil.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\parser.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\fmt.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\timestamp.rs:
+C:\Users\rosas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.21.0\src\external.rs:

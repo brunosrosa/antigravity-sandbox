@@ -1,0 +1,7 @@
+[package]
+name = "nivel-2-beads"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mysql = "27.0.0"
