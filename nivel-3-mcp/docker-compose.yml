@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mcp-mock-server:
+    build: .
+    container_name: antigravity_mcp_mock
+    ports:
+      - "3000:3000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

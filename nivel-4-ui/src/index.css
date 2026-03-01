@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-bg: #0f172a;
+  --color-dark-card: #1e293b;
+  --color-accent: #3b82f6;
+  --color-accent-hover: #2563eb;
+}
+
+body {
+  @apply bg-[#0f172a] text-slate-200 antialiased selection:bg-blue-500/30;
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
